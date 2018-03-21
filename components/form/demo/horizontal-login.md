@@ -79,4 +79,4 @@ class HorizontalLoginForm extends React.Component {
 const WrappedHorizontalLoginForm = Form.create()(HorizontalLoginForm);
 
 ReactDOM.render(<WrappedHorizontalLoginForm />, mountNode);
-````
+
